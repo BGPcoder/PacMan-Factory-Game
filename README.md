@@ -1,6 +1,6 @@
 # PacBody-Game
 This is an exercise from MIT Coding Course for Womxn, Module 7. 
-This game allows the user to press a button to start a game where the user can add images of pacmen moving across the screen in different directions and at different speeds. 
+This game allows the user to press a button to start a game where the user can press a button and add the same image of a "pacman" moving across the screen in different directions and at different speeds. 
 
 MIT License
 
